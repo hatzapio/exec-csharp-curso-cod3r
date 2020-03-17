@@ -1,0 +1,11 @@
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.deps.json
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.runtimeconfig.json
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.runtimeconfig.dev.json
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.dll
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.2\CursoCSharp.pdb
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csprojAssemblyReference.cache
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfoInputs.cache
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.AssemblyInfo.cs
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.dll
+D:\FUZZON\PROJETOS\estudo\csharp-cod3r\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.2\CursoCSharp.pdb
